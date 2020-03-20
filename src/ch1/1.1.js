@@ -18,3 +18,13 @@ function unique(str) {
     return true;
     
 }
+
+
+
+
+
+counter = {
+    "thing": 4,
+    "foo": 3,
+    "other": 4
+}
